@@ -9,7 +9,7 @@ We create well-defined environments for delivery where they don’t exist. Our p
 
 To fulfill our mission, we draw on all the tools at our disposal — workshops, discovery engagements, stakeholder management, mission and vision setting, organization design, agile coaching, DevOps, and executive advising, to name just a few. Our diverse experience helps us consider all the facets of a problem in order to develop an appropriate solution.
 
-The folks on our team hail from varied backgrounds — law, engineering, visual design, user experience, service design, systems thinking, data science, acquisitions, policy, devops, research, facilitation, and product management among them. While we’re not united by a common skillset, we all share a deep passion for solving the complex, systemic challenges that prevent our partner agencies from reaching their goals.
+The folks on our team hail from varied backgrounds — law, engineering, visual design, user experience, service design, systems thinking, data science, acquisitions, policy, DevOps, research, facilitation, and product management among them. While we’re not united by a common skillset, we all share a deep passion for solving the complex, systemic challenges that prevent our partner agencies from reaching their goals.
 
 Members of our chapter commit to being organizers, facilitators, and navigators of uncertainty as we work together to transform the way our government serves the public.
 
