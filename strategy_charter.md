@@ -7,7 +7,7 @@ Everyone at 18F is a strategist. It’s in our motto: delivery is the strategy. 
 
 We create well-defined environments for delivery where they don’t exist. Our primary focus is to shape the way 18F and our partners approach situations that demand carefully managed responses. We ensure that strategy is embedded throughout product development, and that every member of 18F has confidence in the strategic work they do.
 
-To fulfill our mission, we draw on all the tools at our disposal — workshops, discovery engagements, stakeholder management, mission and vision setting, organization design, agile coaching, DevOps, and executive advising, to name just a few. Our diverse experience helps us consider all the facets of a problem in order to develop an appropriate solution. We customize our contributions to the nature of each problem.
+To fulfill our mission, we draw on all the tools at our disposal — workshops, discovery engagements, stakeholder management, mission and vision setting, organization design, agile coaching, DevOps, and executive advising, to name just a few. Our diverse experience helps us consider all the facets of a problem in order to develop an appropriate solution.
 
 The folks on our team hail from varied backgrounds — law, engineering, visual design, user experience, service design, systems thinking, data science, acquisitions, policy, devops, research, facilitation, and product management among them. While we’re not united by a common skillset, we all share a deep passion for solving the complex, systemic challenges that prevent our partner agencies from reaching their goals.
 
