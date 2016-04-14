@@ -16,7 +16,7 @@ Members of our chapter commit to being organizers, facilitators, and navigators 
 ## How we can help
 Every project faces financial, bureaucratic, and organizational obstacles. As Strategists, we help each business unit navigate these challenges and remain focused on their service and mission.
 
-#### Customer Partner Solutions
+#### Custom Partner Solutions
 We help sharpen fuzzy ideas and focus engagements. Whether we’re leading a discovery sprint or conducting field research, we help turn vague policy and stakeholder ideas into concrete priorities for product development. We strive to minimize risk in the product development process.
 
 #### Transformation
@@ -25,9 +25,8 @@ Our partners face a range of challenges that hamper their ability to serve the p
 #### Learn
 We actively share 18F’s knowledge and practices with our partner agencies, helping them develop new ways of operating. We facilitate workshops that bring new concepts, methods, and tools to the work our partners already have underway. We coach everyone from executives to program managers in topics that range from user-centered design and research methodologies to DevOps, system architecture, and agile practices.
 
-#### Platforms + Products
+#### Products & Platforms
 We’re available for 18F product teams that feel the need for outside perspective, vetting, troubleshooting, and brainstorming. We have experience developing innovative models for financing new products, transitioning custom products into platform opportunities, iterating customer acquisition strategies, and outlining the path to product maturity.
-
 
 #### Acquisitions
 In each engagement, we help agencies develop product strategy that’s modular and suited for agile acquisition. During the discovery and product-strategy scoping phases of the RFP ghostwriting process, we advise acquisition authorities. Our team encourages adherence to user-centered design and agile software methodologies while exposing proper product tradeoff decisions. We assess projects in-flight to identify risks, propose alternatives, and develop shared visions with vendors and agency partners.
