@@ -1,6 +1,6 @@
 #### Strategy Chapter
 # Charter
-____________
+
 Everyone at 18F is a strategist. It’s in our motto: delivery is the strategy. Each of us has subject matter expertise and a unique perspective on how to apply that knowledge to each project we take on. How we apply that expertise and what we should ultimately deliver, though, isn’t always clear — it can get lost in a fog of bureaucracy, history, approvals, and politics.
 
 **The Strategy chapter can help when the path forward is unclear.**
