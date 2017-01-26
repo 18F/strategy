@@ -1,6 +1,6 @@
 #### Strategy Chapter
 # Practice Session Resources
-____________
+
 This is where you can find decks and other materials created by the strategy chapter for the bi-weekly practice sessions.
 
 - Laffley Cascade
